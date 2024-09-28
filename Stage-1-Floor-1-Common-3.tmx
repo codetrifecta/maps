@@ -4,7 +4,7 @@
  <tileset firstgid="449" source="RA_Wasteland.tsx"/>
  <tileset firstgid="1553" source="RA_Hell.tsx"/>
  <tileset firstgid="1809" source="RA_Cavern.tsx"/>
- <layer id="3" name="Floors" width="21" height="21" visible="0">
+ <layer id="3" name="Floors" width="21" height="21">
   <data encoding="csv">
 450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,
 450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,
@@ -29,7 +29,7 @@
 450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450,450
 </data>
  </layer>
- <layer id="10" name="Details (Floors)" width="21" height="21" visible="0">
+ <layer id="10" name="Details (Floors)" width="21" height="21">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -79,7 +79,7 @@
 1937,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1938,1939
 </data>
  </layer>
- <layer id="8" name="Obstacles" width="21" height="21" visible="0">
+ <layer id="8" name="Obstacles" width="21" height="21">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -104,7 +104,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="9" name="Chest (Obstacles)" width="21" height="21" visible="0">
+ <layer id="9" name="Chest (Obstacles)" width="21" height="21">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -129,7 +129,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="11" name="Foreground" width="21" height="21">
+ <layer id="11" name="Foreground" width="21" height="21" visible="0">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
